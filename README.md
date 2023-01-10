@@ -1,4 +1,4 @@
-Welcome to the Atomic Design for components-based frameworks repository!
+### Welcome to the Atomic Design for components-based frameworks repository!
 
 Are you tired of the haphazard design of your React / Svelte projects? 
 Want to bring some organization and structure to your components? 
