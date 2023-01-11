@@ -3,8 +3,6 @@ This project follows the atomic design methodology to build reusable and modular
 
 ---
 
-<br>
-
 ### Atoms ⚛️
 Basic building blocks of the user interface. Usually not useful on their own, can be combined to create more complex components.
 - Should be small, simple and independent components to be used in different contexts
@@ -59,8 +57,6 @@ Examples of organisms include:
 - Calendar view 📅
 - Map view 🗺️
 - Pricing table 💰
-
-<br>
 
 ---
 
