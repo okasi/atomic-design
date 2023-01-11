@@ -22,10 +22,10 @@ You'll learn how to:
 
 By the end of reading this beautiful repository's readme files, you'll have the skills and knowledge to design and develop modular, scalable, and maintainable components-based projects by applying Atomic Design concepts.
 
+---
+
 So what are you waiting for?
 
 Start building better, more organized projects today by diving into this repository! <br/>
-
----
 
 Unlock the full potential of your components-based framework projects with Atomic Design!
