@@ -1,6 +1,6 @@
 ## Atomic Design for components-based frameworks
 
-Are you tired of the haphazard design of your React / Svelte projects?
+Are you tired of the haphazard design of your Next.js / SvelteKit projects?
 
 Want to bring some organization and structure to your components?
 
@@ -14,7 +14,7 @@ Atomic Design is a methodology for creating reusable and modular design systems.
 
 ---
 
-This repository will provide you with an in-depth understanding of Atomic Design and its principles, as well as walk you through the process of implementing it in your projects that usea components-based framework such as React or Svelte!
+This repository will provide you with an in-depth understanding of Atomic Design and its principles, as well as walk you through the process of implementing it in your projects that use a components-based framework such as Next.js or SvelteKit!
 
 You'll learn how to:
 
